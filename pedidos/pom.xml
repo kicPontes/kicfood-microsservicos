@@ -8,11 +8,11 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.alurafood</groupId>
+	<groupId>br.com.kicfood</groupId>
 	<artifactId>pedidos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pedidos</name>
-	<description>MS de Pedidos do Alura Food</description>
+	<description>MS de Pedidos do Kic Food</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

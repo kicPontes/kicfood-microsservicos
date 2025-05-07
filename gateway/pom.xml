@@ -8,11 +8,11 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.alurafood</groupId>
+	<groupId>br.com.kicfood</groupId>
 	<artifactId>gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gateway</name>
-	<description>API Gateway para o Alura Food</description>
+	<description>API Gateway para o Kic Food</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2021.0.2</spring-cloud.version>
