@@ -55,8 +55,8 @@ graph TD
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/Kic-Xp/kicfood-microsservicos
+   cd kicfood-microsservicos
    ```
 
 2. **Inicie os serviços na seguinte ordem**:
