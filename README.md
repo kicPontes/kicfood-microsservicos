@@ -1,4 +1,4 @@
-# iFood Clone - Projeto de Estudo em Microsserviços com Spring Cloud
+# iFood Clone - Projeto em Microsserviços com Spring Cloud
 
 [![Java](https://img.shields.io/badge/Java-17-blue)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.6.7-brightgreen)](https://spring.io/projects/spring-boot)
