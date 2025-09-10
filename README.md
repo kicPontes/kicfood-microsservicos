@@ -61,6 +61,8 @@ graph TD
 
 2. **Inicie os serviços na seguinte ordem**:
 
+   OBS: Caso não tenha o Maven instalado, troque o mvn por ".\mvnw" dentro da pasta do arquivo.
+
    a) **Service Discovery (Eureka Server)**:
    ```bash
    cd server
@@ -85,6 +87,6 @@ graph TD
    mvn spring-boot:run
    ```
 
-3. **Acesse a aplicação**:
+4. **Acesse a aplicação**:
    - O gateway estará disponível em: `http://localhost:8080`
    - Os endpoints individuais estarão disponíveis nas portas padrão de cada serviço
