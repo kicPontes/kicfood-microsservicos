@@ -61,7 +61,7 @@ graph TD
 
 2. **Inicie os serviços na seguinte ordem**:
 
-   OBS: Caso não tenha o Maven instalado, troque o mvn por ".\mvnw" dentro da pasta do arquivo.
+   OBS: Caso não tenha o Maven instalado, troque o mvn por ".\mvnw" dentro da pasta do projeto.
 
    a) **Service Discovery (Eureka Server)**:
    ```bash
