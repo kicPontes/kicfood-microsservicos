@@ -6,7 +6,7 @@
 
 Este sistema replica funcionalidades básicas do iFood, implementando uma arquitetura de microsserviços com os principais padrões do ecossistema Spring Cloud. O desenvolvimento acompanhou a estrutura do curso da Alura, com adaptações pessoais e implementações adicionais.
 
-## 📚 Conceitos Aplicados (Conteúdo do Curso)
+## 📚 Conceitos Aplicados
 
 ✔ **Service Discovery** - Implementado com Eureka Server  
 ✔ **API Gateway** - Centralização de rotas com Spring Cloud Gateway  
